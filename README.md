@@ -1,0 +1,7 @@
+# Survival-TypeScript
+
+## install
+
+
+## run
+
